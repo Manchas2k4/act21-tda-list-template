@@ -156,5 +156,8 @@ Este comando compilará tu código y generará una serie de archivos de pruebas 
 - **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
 - **10%** - Se respetan los nombres de las funciones en la aplicación.
 
+## <span style="color: rgb(26, 99, 169);">**¿Cómo la entrego?**</span>
+Crea un archivo Zip de tu repositorio. Asegúrate de que todos los archivos estén incluidos.
+
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
-Cuando hayas pasado todas las pruebas, recuerda publicar el código en tu repositorio (*git push*).
+Sube el archivo en el espacio definido para esta actividad en Canvas.
